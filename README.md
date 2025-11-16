@@ -23,8 +23,9 @@ A group project that I learn how to code a backend website
 - [Facebook](https://www.facebook.com/kazutaka7158)
 
 ## 🏀 Interests
-Outside of tech, I enjoy sports like volleyball, basketball,... .
-Running
+
+- Outside of tech, I enjoy sports like volleyball, basketball,... .
+- Running
 ---
 
 > *Aspiring AI professional eager to contribute and collaborate on impactful projects.*
