@@ -1,7 +1,7 @@
 # 👋 Hi, I'm kazutaka7158!
 
 ## 🎓 About Me
-I'm a student majoring in Artificial Intelligence, actively seeking job opportunities in AI and related fields. I am passionate about applying cutting-edge technology to solve real-world problems, and I am continuously striving to learn and grow in my field.
+I'm a student majoring in Artificial Intelligence, actively seeking job opportunities in AI and related fields. I am passionate about applying cutting-edge technology to solve real-world problems, [...]
 
 ## 🛠 Technical Skills
 - **Languages:** Python
@@ -17,6 +17,9 @@ A personal project that I build to be a template for machine learning project to
 
 ### [Letfnix](https://github.com/plnatoic/Letfnix)
 A group project that I learn how to code a backend website
+
+### Conformal Prediction with ECG
+A project focused on applying conformal prediction techniques to ECG data for reliable uncertainty estimation in medical AI tasks.
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/kazutaka7158)
